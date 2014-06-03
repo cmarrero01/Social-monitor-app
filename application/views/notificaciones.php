@@ -1,0 +1,3 @@
+<?=$header;?>
+Notificaciones
+<?=$footer;?>
